@@ -1,0 +1,11 @@
+
+.gender{
+    border: 1px solid rgb(168, 165, 165);
+    padding: 5px 15px;
+}
+.pcontrol .success input {
+    border: 1px solid green;
+}
+.pcontrol .error input {
+    border: 1px solid red;
+}
